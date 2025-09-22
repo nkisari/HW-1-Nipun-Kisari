@@ -1,7 +1,8 @@
-# HW-1-
+# HW-1-Nipun-Kisari
 
 HW 1 Fall 2025 Software Engineering / IPD 
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
+Uplifting Tech Story:
+<https://medium.com/@elliot.yibaebi/the-untold-story-of-my-tech-journey-9a112d16351e>
 
 
